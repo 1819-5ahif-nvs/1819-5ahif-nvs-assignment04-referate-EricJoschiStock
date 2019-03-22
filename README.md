@@ -2,7 +2,7 @@
 
 ## Übersicht
 
-OpenHAB steht für open Home Automation Bus und ist eine Open-Source home automation Plattform. Mit openHAB hat man die Möglichkeit eine Vielzahl von anderen Geräten und Systemen zu steuern. Außerdem ist openHAB sehr flexible, man kann damit fast alle Home-Automation Wünsche zufrieden stellen, da es zwar schnell und leicht geht, wenn man was einfaches will aber die Komplexität auch ins zigfache steigen kann. An openHAB selbst kann man dabei Sensoren (z.B. Thermometer oder Bewegungsmelder) und Aktoren (z.B. Schalter oder Heizungssteuerung) hängen. Großer Vorteil unter openHAB ist dabei die Gerätehersteller Unabhängigkeit und die modulare Erweiterbarkeit. Auch ist die gute Dokumentation ein riesiger Vorteil.
+OpenHAB steht für open Home Automation Bus und ist eine Open-Source Home Automation Plattform. Mit openHAB hat man die Möglichkeit eine Vielzahl von anderen Geräten und Systemen zu steuern. Außerdem ist openHAB sehr flexible, man kann damit fast alle Home-Automation Wünsche zufrieden stellen, da es zwar schnell und leicht geht, wenn man was einfaches will aber die Komplexität auch ins zigfache steigen kann. An openHAB selbst kann man dabei Sensoren (z.B. Thermometer oder Bewegungsmelder) und Aktoren (z.B. Schalter oder Heizungssteuerung) hängen. Großer Vorteil unter openHAB ist dabei die Gerätehersteller Unabhängigkeit und die modulare Erweiterbarkeit. Auch ist die gute Dokumentation ein riesiger Vorteil.
 
 In der offiziellen openHAB Dokumentation stehen 4 wichtige Punkte, welche man auf jeden Fall beachten sollte wenn man damit arbeitet:
 
