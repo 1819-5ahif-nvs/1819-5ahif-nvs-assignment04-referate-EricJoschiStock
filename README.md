@@ -93,6 +93,6 @@ OpenHab bietet viele verschieden UI’s an. Diese können als Add-On im Standard
 
 ## NodeRed
 
-Programmiertool um Hardware, API’s und online Dienste miteinander zu verbinden. Dabei programmiert man den sogenannten flow in einem Browser. Obwohl NodeRed eigentlich eher visual based ist kann man JavaScript Funktionen benutzen. Dabei baut das Ganze auf Node.js auf, damit ist es extremst leichtgewichtig, welches optimal ist um auf günstiger Hardware zu laufen.  
+Programmiertool um Hardware, API’s und Online-Dienste miteinander zu verbinden. Dabei programmiert man den sogenannten flow in einem Browser. Obwohl NodeRed eigentlich eher visual based ist kann man JavaScript Funktionen benutzen. Dabei baut das Ganze auf Node.js auf, damit ist es extremst leichtgewichtig, welches optimal ist um auf günstiger Hardware zu laufen.  
 
 ![NodeRed](/images/nodered.png)
