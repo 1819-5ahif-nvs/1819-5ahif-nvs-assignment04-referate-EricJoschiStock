@@ -34,7 +34,7 @@ Sitemap – User Interface, welches alle gewünschten Informationen anzeigt
 
 ## Binding
 
-Sind Software-Pakete welche manuell vom User installiert werden müssen. Der Hauptnutzen liegt darin, eine Verbindung zwischen Gerät und Thing herzustellen. Bindings kommunizieren mit dem Gerät und „übersetzen“ alle Befehle von und zu openHAB zwischen dem Gerät und dem Thing.
+Sind Software-Pakete welche manuell vom User installiert werden müssen. Der Hauptnutzen liegt darin, eine Verbindung zwischen System und Thing herzustellen. Bindings kommunizieren mit dem Gerät und „übersetzen“ alle Befehle von und zu openHAB zwischen dem System und dem Thing.
 
 Bsp.: MQTT, Hue, Sonos, nest, Ikea Bindings
 
