@@ -28,7 +28,7 @@ Items – Informationen über ein Gerät
 Rules – Automatische Aktion, welche durch Bedienung ausgelöst wird
 Sitemap – User Interface, welches alle gewünschten Informationen anzeigt
 
-![Übersicht](/images/übersicht.png)
+![Übersicht](/images/überischt.png)
 
 
 # Binding
