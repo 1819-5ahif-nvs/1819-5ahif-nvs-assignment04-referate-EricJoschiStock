@@ -4,10 +4,6 @@
 
 OpenHAB steht für open Home Automation Bus und ist eine Open-Source home automation Plattform. Mit openHAB hat man die Möglichkeit eine Vielzahl von anderen Geräten und System zu steuern. Außerdem ist openHAB sehr flexible, man kann damit fast alle Home-Automation Wünsche zufrieden stellen, da es zwar schnell und leicht geht, wenn man was einfaches will aber die Komplexität auch ins zigfache steigen kann. An openHAB selbst kann man dabei Sensoren (z.B. Thermometer oder Bewegungsmelder) und Aktoren (z.B. Schalter oder Heizungssteuerung) hängen. Großer Vorteil unter openHAB ist dabei die Gerätehersteller Unabhängigkeit und die modulare Erweiterbarkeit. Auch ist die gute Dokumentation ein riesiger Vorteil.
 
-OpenHab selbst baut dabei auf dem Eclipse Smarthome Framework auf. Es ist komplett in Java geschrieben und benutzt Apache Karaf mit Eclipse Equinox als eine OSGi runtime und verknüpft dies mit Jetty für einen http-Server.
-
-
-
 In der offiziellen openHAB Dokumentation stehen 4 wichtige Punkte, welche man auf jeden Fall beachten sollte wenn man damit arbeitet:
 
 - Langsam anfangen und sich hocharbeiten, nicht gleich mit der Tür in das Haus fallen
