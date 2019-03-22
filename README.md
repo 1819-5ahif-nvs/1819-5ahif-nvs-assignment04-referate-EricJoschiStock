@@ -16,7 +16,7 @@ In der offiziellen openHab Dokumentation stehen 4 wichtige Punkte, welche man au
 - Alle kleinen Erfolge feiern
 
 ## Herzstück – EventBus
-- bild 
+![Eventbus](/images/eventbus.png)
  
 
 **Begriffe**
@@ -28,7 +28,7 @@ Items – Informationen über ein Gerät
 Rules – Automatische Aktion, welche durch Bedienung ausgelöst wird
 Sitemap – User Interface, welches alle gewünschten Informationen anzeigt
 
- - BILD
+![Übersicht](/images/übersicht.png)
 
 
 # Binding
@@ -53,7 +53,7 @@ Things stellen Channels zur Verfügung. Sie stellen die verschiedenen Funktionen
 
 Stellen eine Funktionalität da, welche vom System benutzt wird da. Items haben einen sogenannten State und werden mit Events benutzt.
 
-
+![Items und Things](/images/thing.png)
 # Rules
 
 Rules werden benutzt um Prozesse zu automatisieren. Es gibt für jede Rule einen Trigger welcher, wenn ausgelöst, ein Skript durchläuft, welches dann alle funktionalen Sachen regelt. Z.B. Um 19 Uhr Licht aus oder wenn jemand an der Tür vorbeigeht Licht auf Rot.
@@ -77,10 +77,21 @@ Wird benutzt um beispielsweise ein System nach Neustart wiederherzustellen oder 
 OpenHab bietet viele verschieden UI’s an. Diese können als Add-On im Standard UI, dem Paper UI installiert werden.
 
 - Paper UI: Interface, welches hilft alle Things, Bindings, usw. richtig einzustellen und zu verbinden.
+
+![PaperUI](/images/paperUI.png)
+
 - Basic UI: Dient zum Anzeigen der Sitemaps und basiert auf Google Material Design Lite. Bietet zusätzlich ein responsives Layout an, womit dieses UI perfekt für alle Bildschirmgrößen ist. Natürlich werden die Werte live upgedatet.
 
+
+![BasicUI](/images/basicUI.png)
+
 - Cassic UI: Gleich wie Basic UI nur in einem alten IOS Theme.  
+
+
+![ClassicUI](/images/classicUI.png)
 
 # NodeRed
 
 Programmiertool um Hardware, API’s und online Dienste miteinander zu verbinden. Dabei programmiert man den sogenannten flow in einem Browser. Obwohl NodeRed eigentlich eher visual based ist kann man JavaScript Funktionen benutzen. Dabei baut das Ganze auf Node.js auf, damit ist es extremst leichtgewichtig, welches optimal ist um auf günstiger Hardware zu laufen.  
+
+![NodeRed](/images/nodered.png)
