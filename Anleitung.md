@@ -50,10 +50,10 @@ Nach einem Neustart der Microcontroller-Anwendung senden die Aktoren und Sensore
 ![MQTTHab3](/images/anleitung/MqttStep3.png)
 
 3.4 MQTT Broker auswählen
-![MQTTHab4](/images/anleitung/MqttStep4.PNG)
+![MQTTHab4](/images/anleitung/MQTTStep4.PNG)
 
 3.5 Port und IP des Brokers auswählen
-![MQTTHab5](/images/anleitung/MqttStep5.PNG)
+![MQTTHab5](/images/anleitung/MQTTStep5.PNG)
 
 ## 4. Things im PaperUI hinzufügen
 
