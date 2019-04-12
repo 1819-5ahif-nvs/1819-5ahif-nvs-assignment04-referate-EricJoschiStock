@@ -47,28 +47,28 @@ Nach einem Neustart der Microcontroller-Anwendung senden die Aktoren und Sensore
 ![MQTTHab2](/images/anleitung/MQTTStep2.png)
 
 3.3 Add Manually auswählen
-![MQTTHab3](/images/anleitung/MQTTStep3.png)
+![MQTTHab3](/images/anleitung/MqttStep3.png)
 
 3.4 MQTT Broker auswählen
-![MQTTHab4](/images/anleitung/MQTTStep4.png)
+![MQTTHab4](/images/anleitung/MqttStep4.PNG)
 
 3.5 Port und IP des Brokers auswählen
-![MQTTHab5](/images/anleitung/MQTTStep5.png)
+![MQTTHab5](/images/anleitung/MqttStep5.PNG)
 
 ## 4. Things im PaperUI hinzufügen
 
 4.1 Unter INBOX nun nach dem auswählen des MQTT Bindings, Generic MQTT Thing auswählen
-![ThingHab1](/images/anleitung/ThingStep1.png)
+![ThingHab1](/images/anleitung/ThingStep1.PNG)
 
 4.2 Bei der Bridge Selection den richtigen MQTT Broker auswählen
-![ThingHab2](/images/anleitung/ThingStep2.png)
+![ThingHab2](/images/anleitung/ThingStep2.PNG)
 
 Nun kann man alle wichtigen Informationen für das Thing hinzufügen bzw. ändern. Das fertige Thing findet man im Menü unter Things.
 
 ## 5. Channel (Funktion) zum Thign hinzufügen
 
 5.1 Unter Things das richtige Thing auswählen und auf das Plus neben Channels drücken. Nun öffnet sich die Channelmaske und der User kann alle nötigen Informationen eingeben. Wichtig sind hierbei vorallem die MQTT Broker Topics.
-![ChannelHab1](/images/anleitung/Channel1.png)
+![ChannelHab1](/images/anleitung/Channel1.PNG)
 
 ## 6. Channel linken
 
